@@ -23,7 +23,6 @@ def showdelete():
     
     a = Label(t,text='appointment',font=('arial',15),fg='red',bg='cyan')
     a.place(x=350,y=20)
-    print("anil")
     b = Label(t,text='patientsid',fg='red',bg='yellow')
     b.place(x=50,y=120)
     e1 = Entry(t,width=30)
